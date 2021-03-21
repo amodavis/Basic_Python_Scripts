@@ -1,2 +1,2 @@
 # Basic Python Scripts
-Python files from DSC510 class
+Basic Python command line scripts
